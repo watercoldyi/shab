@@ -1,0 +1,2 @@
+# shab
+abbreviation of vim
